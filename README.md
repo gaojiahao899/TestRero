@@ -11,4 +11,4 @@
 ```
 ## 使用方式
 A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)
-
+B: beset_model文件太大，请移步AI studio查看
